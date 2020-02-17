@@ -13,5 +13,5 @@
 
 8. I listened to the Basic Computer Science course and successfully completed the course website development with HTML, CSS & 9. JavaScript in IT-Academy, i also learn JS on codeacademy and do tasks on codewars. Use Udemy to learn JS too. All my         projects: my GitHub.
 
-10. I graduated school, and successfully completed the course website development with HTML, CSS & JavaScript in IT - Academy.
+10. I graduated school, and successfully completed the course website development with HTML, CSS & JavaScript in IT-Academy.
 11. According to training.by my English level is B1(Intermediate).
