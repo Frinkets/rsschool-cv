@@ -1,1 +1,1 @@
-# https://Frinkets.github.io/rsschool-cv/cv
+# https://frinkets.github.io/rsschool-cv/cv
